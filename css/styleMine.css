@@ -1,0 +1,47 @@
+body{
+    padding: 0;
+    margin: 0;
+    top: 0;
+    background-color: rgba(25, 24, 24, 0.905);
+}
+
+header{ 
+    display: flex;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.logoGerminaFlix{   
+    width: 30px;
+    height: 30px;
+}
+
+.caixinhaDeTexto{
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 100px;
+}
+
+.posterFilme{
+    display: flex;
+    justify-content: center;
+}
+
+.resenhaFilme{
+    color: aliceblue;
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    justify-self: center;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    justify-self: center;
+}

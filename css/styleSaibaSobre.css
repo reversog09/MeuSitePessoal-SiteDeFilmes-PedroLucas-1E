@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+    margin: 0;
+    top: 0;
+    background-color: rgba(25, 24, 24, 0.905);
+}
+
+header{ 
+    display: flex;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.logoGerminaFlix{   
+    width: 30px;
+    height: 30px;
+}
+
+.barraDePesquisa{
+    width: 18px
+}
+
+form{
+    margin-right: 12px;
+}
+
+#pesquisar{
+    height: 20px
+}
+
+label{
+    display: flex;
+    margin-left: 130px;
+}
+
+.caixinhaDeTexto{
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 100px;
+}
+
+.eu{
+    padding-right: 85px;
+    display: flex;
+    justify-self: center;
+    width: 250px;
+    height: 500px;
+}
+
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+
+.euMesmo{
+    color: aliceblue;
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    justify-self: center;
+}
+
+

@@ -1,0 +1,228 @@
+body{
+    padding: 0;
+    margin: 0;
+    top: 0;
+    background-color: rgb(52, 52, 52);
+}
+
+.criadorSaiba{
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+header{ 
+    display: flex;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+
+.logoGerminaFlix{   
+    width: 30px;
+    height: 30px;
+    padding-top: 2px;
+}
+
+table{
+    padding-left: 30px;
+    display: flex;
+}
+
+
+
+.saibaMais{
+    color: aliceblue;
+    padding-top: 3px;
+}
+
+h1{
+    color: aliceblue;
+    padding-left: 30px;
+}
+
+.umFilmeMinecraft{
+    padding-left: 30px;
+    width: 100px;
+    padding-right: 30px;
+}
+
+.nomeMine{
+    width: 130px;
+    color: aliceblue;
+}
+
+.minecraft{
+    width: 200px;
+    height: 300px;
+    transition: 0.3s;
+}
+
+.minecraft:hover {
+    transition: 0.3s;
+    height: 500px;
+    width: 300px; 
+}
+
+.avatar{
+    width: 210px;
+    height: 300px;
+    transition: 0.3s;
+}
+
+.avatar:hover{
+    transition: 0.3s;
+    height: 400px;
+    width: 270px;
+}
+
+.avatarDeVerdade{
+    padding-right: 30px;
+}
+
+.nomeAvatar{
+    width: 130px;
+    color: aliceblue;
+}
+
+.fnaf1{
+    padding-right: 30px;
+}
+
+.fnaf{
+    width: 200px;
+    height: 300px;
+    transition: 0.3s;
+}
+
+.fnaf:hover{
+    transition: 0.3s;
+    height: 400px;
+    width: 250px;
+}
+
+.nomeFnaf{
+    width: 200px;
+    color: aliceblue;
+}
+
+.shrek4{
+    padding-right: 30px;
+}
+
+.shrek{
+    width: 200px;
+    height: 300px;
+    transition: 0.3s;
+}
+.shrek:hover{
+    transition: 0.3s;
+    height: 400px;
+    width: 250px;
+}
+
+.nomeShrek{
+    width: 150px;
+    color: aliceblue;
+}
+
+.asBranquelas{
+    padding-bottom: 22px;
+}
+
+.branquelas{
+    width: 200px;
+    height: 300px;
+    transition: 0.3s;
+}
+
+.branquelas:hover{
+    transition: 0.3s;
+    height: 400px;
+    width: 250px;
+}
+
+.nomeBranquelas{
+    color: aliceblue;
+    width: 130px;
+}
+
+.aEscolhaPerfeita1{
+    padding-left: 30px;
+}
+
+.escolhaPerfeita{
+    width: 100px;
+    height: 150px;
+}
+
+.nomeEscolhaPerfeita{
+    color: aliceblue;
+    width: 100px;
+}
+
+.minions1{
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.minions{
+    width: 100px;
+    height: 150px;
+}
+
+.nomeMinions{
+    color: aliceblue;
+    width: 100px;
+}
+
+.topGunMaverick{
+    padding-left: 30px;
+}
+
+.topGun{
+    width: 100px;
+    height: 150px;
+}
+
+.nomeTopGun{
+    color: aliceblue;
+    width: 100px;
+}
+
+.operacaoDoNatal{
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.operacaoNatal{
+    width: 100px;
+    height: 150px;
+}
+
+.nomeOperacaoNatal{
+    color: aliceblue;
+    width: 100px;
+}
+
+.detetivePikachu{
+    padding-left: 30px;
+}
+
+.pokemon{
+    width: 105px;
+    height: 152px;
+}
+
+.nomePokemon{
+    color: aliceblue;
+    width: 120px;
+}
+
+.caixinhaDeTexto{
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 100px;
+}
+
+

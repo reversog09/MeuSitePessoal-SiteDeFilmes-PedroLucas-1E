@@ -1,0 +1,120 @@
+body{
+    padding: 0;
+    margin: 0;
+    top: 0;
+    background-color: rgb(52, 52, 52);
+}
+
+.botao{
+    border-radius: 60px;
+    height: 25px;
+    background-color: red;
+    text-decoration-color: black;
+}
+
+.criadorSaiba{
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+header{ 
+    display: flex;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+}
+
+.logoGerminaFlix{   
+    width: 30px;
+    height: 30px;
+    padding-top: 10px;
+}
+
+.saibaMais{
+    color: aliceblue;
+    padding-top: 3px;
+}
+
+table{
+    padding-left: 30px;
+    display: flex;
+}
+
+
+h1{
+    color: aliceblue;
+    padding-left: 30px;
+}
+.filmeee{
+    width: 200px;
+    height: 300px;
+}
+
+.cinema{
+    transition: 0.3s;
+}
+
+.cinema:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.nome{
+    width: 170px;
+    color: aliceblue;
+}
+
+.umFilmeMinecraft{
+    padding-left: 30px;
+    width: 100px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+.avatar{
+    width: 210px;
+    height: 300px;
+}
+
+.avatarDeVerdade{
+    padding-right: 30px;
+}
+
+.fnaf1{
+    padding-right: 30px;
+}
+
+.nomeFnaf{
+    width: 200px;
+    color: aliceblue;
+}
+
+.shrek4{
+    padding-right: 30px;
+}
+
+.asBranquelas{
+    padding-bottom: 22px;
+}
+
+.aEscolhaPerfeita1{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.minions1{
+    padding-right: 35px;
+}
+
+.topGunMaverick{
+    padding-right: 30px;
+}
+
+.operacaoDoNatal{
+    padding-right: 30px;
+}
+
+.detetivePikachu{
+    padding-top: 20px;
+}

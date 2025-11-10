@@ -5,41 +5,32 @@ body{
     background-color: rgba(25, 24, 24, 0.905);
 }
 
+.criadorSaiba{
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
 header{ 
     display: flex;
     padding-left: 30px;
     padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
 }
 
 .logoGerminaFlix{   
     width: 30px;
     height: 30px;
+    padding-top: 10px;
 }
 
-.barraDePesquisa{
-    width: 18px
-}
-
-form{
-    margin-right: 12px;
-}
-
-#pesquisar{
-    height: 20px
-}
-
-label{
-    display: flex;
-    margin-left: 130px;
-}
-
-.caixinhaDeTexto{
-    text-align: center;
+.saibaMais{
     color: aliceblue;
-    padding-bottom: 100px;
+    padding-top: 3px;
 }
 
 .eu{
+    padding-top: 10px;
     padding-right: 85px;
     display: flex;
     justify-self: center;

@@ -5,27 +5,38 @@ body{
     background-color: rgba(25, 24, 24, 0.905);
 }
 
+.criadorSaiba{
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
 header{ 
     display: flex;
     padding-left: 30px;
     padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
 }
 
 .logoGerminaFlix{   
     width: 30px;
     height: 30px;
+    padding-top: 10px;
 }
 
-.caixinhaDeTexto{
-    text-align: center;
+.saibaMais{
     color: aliceblue;
-    padding-bottom: 100px;
+    padding-top: 3px;
 }
 
 .posterFilme{
+    padding-top: 10px;
     display: flex;
     justify-content: center;
+    height: 500px;
 }
+
+
 
 .resenhaFilme{
     color: aliceblue;

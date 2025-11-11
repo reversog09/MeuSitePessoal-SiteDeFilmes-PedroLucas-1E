@@ -2,12 +2,16 @@ body{
     padding: 0;
     margin: 0;
     top: 0;
-    background-color: rgba(25, 24, 24, 0.905);
+    background-color: rgba(255, 255, 255, 0.905);
 }
 
 .criadorSaiba{
     padding-left: 30px;
     padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 
 header{ 
@@ -15,7 +19,7 @@ header{
     padding-left: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: black;
+    background-color: rgb(0, 17, 255);
 }
 
 .logoGerminaFlix{   
@@ -25,7 +29,7 @@ header{
 }
 
 .saibaMais{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     padding-top: 3px;
 }
 
@@ -36,10 +40,15 @@ header{
     height: 500px;
 }
 
+.poster{
+    border: 1px solid black;
+
+}
+
 
 
 .resenhaFilme{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     width: 1000px;
     text-align: center;
     display: flex;
@@ -47,10 +56,10 @@ header{
 }
 h2{
     text-align: center;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 h1{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     width: 1000px;
     text-align: center;
     display: flex;

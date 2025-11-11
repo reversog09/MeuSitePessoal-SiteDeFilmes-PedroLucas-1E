@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
     top: 0;
-    background-color: rgba(25, 24, 24, 0.905);
+    background-color: rgba(255, 255, 255, 0.905);
 }
 
 .criadorSaiba{
@@ -15,7 +15,7 @@ header{
     padding-left: 30px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: black;
+    background-color: rgb(0, 17, 255);
 }
 
 .logoGerminaFlix{   
@@ -23,32 +23,48 @@ header{
     height: 30px;
     padding-top: 10px;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
 
 .saibaMais{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     padding-top: 3px;
 }
 
-.eu{
-    padding-top: 10px;
-    padding-right: 85px;
+.euMsm{
     display: flex;
     justify-self: center;
-    width: 250px;
     height: 500px;
+    border: 1px solid black;
 }
 
-h2{
+
+.nome{
     text-align: center;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 
-.euMesmo{
-    color: aliceblue;
-    width: 1000px;
-    text-align: center;
-    display: flex;
+ .curiosidades{
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+ }
+
+ .geral{
     justify-self: center;
+    color: rgb(0, 0, 0);
+ }
+
+ .c2{
+    padding-top: 20px;
+    padding-left: 510px;
+    color: rgb(0, 0, 0);
 }
 
-
+.listaUn{
+    padding-right: 200px;
+}
+.listaOrd{
+    padding-right: 330px;
+}
